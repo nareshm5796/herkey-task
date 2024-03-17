@@ -1,0 +1,32 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "It is a profile application where others can see about you",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "test"
+  },
+  "keywords": [
+    "profile",
+    "my",
+    "profile",
+    "about",
+    "you"
+  ],
+  "author": "naresh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.13",
+    "@mui/material": "^5.15.13",
+    "nodemon": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
